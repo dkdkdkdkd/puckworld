@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="55fd2ac9-16db-4f73-9c24-86faee2aed7e" name="pycharm (project level)">
+        <fileTransfer accessType="SFTP" host="34.64.107.50" port="22" sshConfigId="922195cc-4440-4718-a38c-bb75938b897e" sshConfig="pycharm" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
